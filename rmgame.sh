@@ -6,7 +6,7 @@ echo "THIS IS A SERIOUS GAME."
 echo "Please be aware that this program might completely wipe the system. 'wipe' meaning deleting every single file."
 
 # Start game.
-echo -n "ENTER A NUMBER : "
+echo -n "ENTER A NUMBER FROM 1 ~ 6 : "
 read num
 if [ $num -gt $ha ]
 then

@@ -8,10 +8,9 @@ run `./rmgame.sg`
 
 CAUTION!!!!!
 -----------------
-# CONTRIBUTORS OF THIS PROGRAM ARE NOT RESPONSIBLE FOR ANY DAMAGE TO THE SYSTEM OR DATA LOST USING THIS PROGRAM.
+# THIS GAME MIGHT DELETE EVERY SINGLE FILES IN THE WHOLE SYSTEM. CONTRIBUTORS OF THIS PROGRAM ARE NOT RESPONSIBLE FOR ANY DAMAGE OR LOSS DIRECTLY OR INDIRECTLY CAUSED BY THIS PROGRAM.
 **If your use of this program results in the need for servicing or replacing equipment or data, you are the only one who is responsible for all of those costs.**
 
-**USE IT WITH CAUTION**
 
 CREDIT
 -----------------

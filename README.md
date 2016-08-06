@@ -1,4 +1,4 @@
-RMGAME - rm -rf RUSIAN ROULETTE GAME of death
+RMGAME: rm -rf RUSIAN ROULETTE GAME OF DEATH
 -----------------
 **ROOT ACCESS RECOMMENEDED** if you are serious about the game.
 

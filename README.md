@@ -4,7 +4,7 @@ RMGAME: rm -rf RUSIAN ROULETTE GAME OF DEATH
 
 ### How to start
 
-run `./rmgame.sg`
+run `./rmgame.sh`
 
 CAUTION!!!!!
 -----------------

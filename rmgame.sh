@@ -1,9 +1,8 @@
 #! /bin/bash
 # Print title and caution.
 ha=6;
-echo "** RUSIAN ROULETTE **"
-echo "THIS IS A SERIOUS GAME."
-echo "Please be aware that this program might completely wipe the system. 'wipe' meaning deleting every single file."
+echo "** RUSSIAN ROULETTE **"
+echo "Don't play if you are a sissy!"
 
 # Start game.
 echo -n "ENTER A NUMBER FROM 1 ~ 6 : "

